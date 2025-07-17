@@ -1,0 +1,28 @@
+add_newline = true
+
+format = """
+$directory\
+$git_branch\
+$cmd_duration\
+$line_break\
+$character"""
+
+[character]
+success_symbol = "λ "
+error_symbol = "λ "
+
+[directory]
+truncation_length = 3
+style = "green"
+
+[git_branch]
+symbol = " "
+style = "bold purple"
+
+[cmd_duration]
+min_time = 2_000   # show duration if command took longer than 2 seconds (2000 ms)
+format = "[$duration]($style) "
+style = "white"
+
+[time]
+disabled = true
