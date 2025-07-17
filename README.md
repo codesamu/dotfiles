@@ -2,11 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch%20Linux%20(WSL)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-zsh-1f425f.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terminal-Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt-Starship-FF4C98?style=for-the-badge&logo=starship&logoColor=white"/>
-  <img src="https://img.shields.io/github/stars/codesamu/dotfiles?style=for-the-badge"/>
 </p>
 
 ---
