@@ -20,6 +20,7 @@ This repository contains my personal dotfiles and configurations for the followi
 | **Starship** | Minimal, fast shell prompt                     |
 | **Lazygit** | Terminal Git UI with smart shortcuts            |
 | **Yazi**   | Modern TUI file manager, fast and minimal        |
+| **Hyprland** | Desktop manager for linux |
 
 ---
 
