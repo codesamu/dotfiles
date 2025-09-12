@@ -131,6 +131,7 @@ keymap = [
 	{ on = [ "g", "f" ],       run = "follow",           desc = "Follow hovered symlink" },
   { on = [ "g", "j" ],       run = "cd ~/code", desc = "go to code" },
   { on = [ "g", "m" ],       run = "cd /mnt",          desc = "go to mnt" },
+  { on = [ "g", "s" ],       run = "cd ~/school",          desc = "go to school" },
 
 
 	# Tabs
